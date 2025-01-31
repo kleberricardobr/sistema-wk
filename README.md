@@ -1,0 +1,5 @@
+- O Dump do banco de dados está na pasta .\Dump
+- O nome do Schema, caso precise para a importação é: sistema
+- A lib do MySQL está em: .\mysql-connector
+- Um binário compilado juntamente com o arquivo .ini (ConnSys.ini) de exemplos, estão na pasta: .\Win32\Debug
+- Desenvolvido com Delphi 12 (Versão Community)
